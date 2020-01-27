@@ -1,0 +1,5 @@
+{
+    "ignore": ["./output.txt"],
+    "watch": [".env", "index.js", "input.txt"],
+    "ext": "js,txt"
+  }
